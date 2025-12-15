@@ -1,0 +1,2 @@
+Inception Score (IS): 3.963 ± 0.668
+CLIP Similarity Score: 19.962
